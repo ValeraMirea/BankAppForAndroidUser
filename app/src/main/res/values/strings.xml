@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bank</string>
+    <string name="Popolnenie">пополнить</string>
+    <string name="Snatie">Снять</string>
+    <string name="TotalMoney">Счет</string>
+    <string name="Balance">Баланс счета</string>
+</resources>
